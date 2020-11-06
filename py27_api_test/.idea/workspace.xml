@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e58a3e70-2bf1-4089-b95d-146498fb9189" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01扩展学习的代码/01python操作mysql数据库.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01扩展学习的代码/04随机生成手机号码.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#150#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcases/test_03recharge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1548">
+              <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+              <folding>
+                <element signature="e#148#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#149#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/test_01register.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="e#149#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>充值</find>
+      <find>EnnData</find>
+      <find>CaseDate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>取现</replace>
+      <replace>EnvData</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run_test.py" />
+        <option value="$PROJECT_DIR$/testcases/test_login.py" />
+        <option value="$PROJECT_DIR$/common/handle_logging.py" />
+        <option value="$PROJECT_DIR$/common/handle_path.py" />
+        <option value="$PROJECT_DIR$/logs/all.log" />
+        <option value="$PROJECT_DIR$/conf/config.yaml.py" />
+        <option value="$PROJECT_DIR$/conf/config.yaml" />
+        <option value="$PROJECT_DIR$/common/handle_config.py" />
+        <option value="C:/python37/Lib/site-packages/pymysql/__init__.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/01python操作mysql数据库.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/02关于增删改的sql语句执行的注意点.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/03操作数据库模块的封装.py" />
+        <option value="$PROJECT_DIR$/框架模型搭建.txt" />
+        <option value="$PROJECT_DIR$/common/handle_db.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/04随机生成手机号码.py" />
+        <option value="$PROJECT_DIR$/testcases/test_register.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/05关于unittest中用例环境管理的配置方法.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/06疑问解答.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/07decimal类型的数据.py" />
+        <option value="$PROJECT_DIR$/testcases/test_withdraw.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/关于局部变量.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/08正则表达式基本使用.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/08使用正则表达式高效的替换用例数据.py" />
+        <option value="$PROJECT_DIR$/../../py26_project/py26_api_test/testcases/test_invest.py" />
+        <option value="$PROJECT_DIR$/testcases/test_audit.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/09正则表达式基本使用.py" />
+        <option value="$PROJECT_DIR$/testcases/test_add.py" />
+        <option value="$PROJECT_DIR$/testcases/test_recharge.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/10动态设置类属性.py" />
+        <option value="$PROJECT_DIR$/conf/config.ini" />
+        <option value="$PROJECT_DIR$/testcases/test_06audit.py" />
+        <option value="$PROJECT_DIR$/testcases/test_03recharge.py" />
+        <option value="$PROJECT_DIR$/testcases/test_999recharge.py" />
+        <option value="$PROJECT_DIR$/testcases/test_999.py" />
+        <option value="$PROJECT_DIR$/common/handle_data.py" />
+        <option value="$PROJECT_DIR$/testcases/test_07invest.py" />
+        <option value="$PROJECT_DIR$/testcases/test_invest.py" />
+        <option value="$PROJECT_DIR$/testcases/test_info.py" />
+        <option value="$PROJECT_DIR$/testcases/test_update.py" />
+        <option value="$PROJECT_DIR$/testcases/test_main_stream.py" />
+        <option value="$PROJECT_DIR$/testcases/test_loans.py" />
+        <option value="$PROJECT_DIR$/01扩展学习的代码/11requests.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="336" />
+    <option name="y" value="5" />
+    <option name="width" value="1305" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="py27_api_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py27_api_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/python/pycharm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\py27_class\py27_api_test\testcases" />
+      <recent name="C:\project\py27_class\py27_api_test\01扩展学习的代码" />
+      <recent name="C:\project\py27_class\py27_api_test\data" />
+      <recent name="C:\project\py27_class\py27_api_test\common" />
+      <recent name="C:\project\py27_class\py27_api_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_loans.py">
+    <configuration name="08正则表达式基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01扩展学习的代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01扩展学习的代码/08正则表达式基本使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_info.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_info.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_invest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_invest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_loans.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_loans.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_main_stream.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_main_stream.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_update.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py27_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/test_update.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_loans.py" />
+        <item itemvalue="Python tests.Unittests in test_main_stream.py" />
+        <item itemvalue="Python tests.Unittests in test_info.py" />
+        <item itemvalue="Python tests.Unittests in test_update.py" />
+        <item itemvalue="Python tests.Unittests in test_invest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e58a3e70-2bf1-4089-b95d-146498fb9189" name="Default Changelist" comment="" />
+      <created>1584447427263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584447427263</updated>
+      <workItem from="1584447428853" duration="3233000" />
+      <workItem from="1584618338160" duration="13000" />
+      <workItem from="1584619273523" duration="1616000" />
+      <workItem from="1585054095309" duration="4965000" />
+      <workItem from="1585100552018" duration="824000" />
+      <workItem from="1585101484014" duration="900000" />
+      <workItem from="1585106423080" duration="2130000" />
+      <workItem from="1585114820033" duration="619000" />
+      <workItem from="1585223265350" duration="9815000" />
+      <workItem from="1585358446248" duration="9010000" />
+      <workItem from="1585377042154" duration="661000" />
+      <workItem from="1585633855942" duration="728000" />
+      <workItem from="1585655118516" duration="9049000" />
+      <workItem from="1585704546307" duration="92000" />
+      <workItem from="1585827636773" duration="296000" />
+      <workItem from="1585828237044" duration="9509000" />
+      <workItem from="1585877569158" duration="858000" />
+      <workItem from="1586241376764" duration="1727000" />
+      <workItem from="1586247829626" duration="631000" />
+      <workItem from="1586260120812" duration="7795000" />
+      <workItem from="1586268129841" duration="89000" />
+      <workItem from="1586268774598" duration="8000" />
+      <workItem from="1586310721223" duration="8000" />
+      <workItem from="1586332799015" duration="666000" />
+      <workItem from="1586402758325" duration="2621000" />
+      <workItem from="1586411877787" duration="264000" />
+      <workItem from="1598859258100" duration="681000" />
+      <workItem from="1599021172682" duration="636000" />
+      <workItem from="1599028118199" duration="686000" />
+      <workItem from="1601203938091" duration="188000" />
+      <workItem from="1603204981691" duration="1209000" />
+      <workItem from="1603787822573" duration="598000" />
+      <workItem from="1603792417883" duration="11000" />
+      <workItem from="1604309424572" duration="643000" />
+      <workItem from="1604473606719" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 52m 56s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 53m 27s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 53m 53s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 54m 59s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 56m 55s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 57m 20s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 11h 57m 46s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 13h 58m 27s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 14h 01m 09s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_loans_py - 2020.04.09 at 14h 01m 59s.xml">
+      <configuration name="Unittests in test_loans.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72804000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="336" y="5" width="1305" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1562753" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09724238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3134978" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/test_invest.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_recharge_py.coverage" NAME="Unittests in test_recharge.py Coverage Results" MODIFIED="1585633864745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_for_test_register_RegisterTestCase.coverage" NAME="Unittests for test_register.RegisterTestCase Coverage Results" MODIFIED="1585054995242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_update_py.coverage" NAME="Unittests in test_update.py Coverage Results" MODIFIED="1586403486783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$10.coverage" NAME="10动态设置类属性 Coverage Results" MODIFIED="1586261937083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_add_py.coverage" NAME="Unittests in test_add.py Coverage Results" MODIFIED="1586262872637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$pytest_in_test_register_py.coverage" NAME="pytest in test_register.py Coverage Results" MODIFIED="1585054917056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_05unittest_py.coverage" NAME="Unittests in 05关于unittest中用例环境管理的配置方法.py Coverage Results" MODIFIED="1585360990264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_audit_py.coverage" NAME="Unittests in test_audit.py Coverage Results" MODIFIED="1585662711994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$08.coverage" NAME="08使用正则表达式高效的替换用例数据 Coverage Results" MODIFIED="1585836698044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1585830393155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_withdraw_py.coverage" NAME="Unittests in test_withdraw.py Coverage Results" MODIFIED="1585656312119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$.coverage" NAME="关于局部变量 Coverage Results" MODIFIED="1585830130385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$07decimal.coverage" NAME="07decimal类型的数据 Coverage Results" MODIFIED="1585366258889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_07invest_py.coverage" NAME="Unittests in test_07invest.py Coverage Results" MODIFIED="1586268208899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$06.coverage" NAME="06疑问解答 Coverage Results" MODIFIED="1585364084369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$03.coverage" NAME="03操作数据库模块的封装 Coverage Results" MODIFIED="1585227307188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_main_stream_py.coverage" NAME="Unittests in test_main_stream.py Coverage Results" MODIFIED="1586404079133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_loans_py.coverage" NAME="Unittests in test_loans.py Coverage Results" MODIFIED="1586412116653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$09.coverage" NAME="09正则表达式基本使用 Coverage Results" MODIFIED="1586262090250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$01pythonmysql.coverage" NAME="01python操作mysql数据库 Coverage Results" MODIFIED="1585225756344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$handle_logging.coverage" NAME="handle_logging Coverage Results" MODIFIED="1584619596559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_for_test_register_RegisterTestCase_test_register.coverage" NAME="Unittests for test_register.RegisterTestCase.test_register Coverage Results" MODIFIED="1585054965632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_invest_py.coverage" NAME="Unittests in test_invest.py Coverage Results" MODIFIED="1586403023167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$handle_config.coverage" NAME="handle_config Coverage Results" MODIFIED="1585107815710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/py27_api_test$04.coverage" NAME="04随机生成手机号码 Coverage Results" MODIFIED="1585230343265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01扩展学习的代码" />
+    <SUITE FILE_PATH="coverage/py27_api_test$Unittests_in_test_info_py.coverage" NAME="Unittests in test_info.py Coverage Results" MODIFIED="1586403978379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/py27_api_test$handle_path.coverage" NAME="handle_path Coverage Results" MODIFIED="1585057696353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library/myddt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/python37/Lib/configparser.py" />
+    <entry file="file://$PROJECT_DIR$/common/all.log" />
+    <entry file="file://$PROJECT_DIR$/common/handle_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#149#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all.log" />
+    <entry file="file://$PROJECT_DIR$/common/handle_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/all.log">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="1210">
+          <caret line="55" column="71" lean-forward="true" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.yaml.py" />
+    <entry file="file://$PROJECT_DIR$/conf/config.yaml" />
+    <entry file="file://C:/python37/Lib/site-packages/pymysql/__init__.py" />
+    <entry file="file://C:/python37/Lib/site-packages/pymysql/connections.py" />
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/03操作数据库模块的封装.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="e#281#740#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/02关于增删改的sql语句执行的注意点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="40" selection-start-line="40" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架模型搭建.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="63" column="25" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="63" selection-end-column="25" />
+          <folding>
+            <element signature="e#576#1332#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/06疑问解答.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/07decimal类型的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/05关于unittest中用例环境管理的配置方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="55" column="11" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+          <folding>
+            <element signature="e#150#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="46" column="15" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/关于局部变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python37/Lib/re.py" />
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/08正则表达式基本使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/08使用正则表达式高效的替换用例数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" selection-start-line="36" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python37/HTMLTestRunnerNew.py" />
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/09正则表达式基本使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_04withdraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="74" />
+          <folding>
+            <element signature="e#148#157#0" expanded="true" />
+            <element signature="e#698#1314#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/10动态设置类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_06audit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1868">
+          <caret line="124" column="3" lean-forward="true" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+          <folding>
+            <element signature="e#150#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_02login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="e#149#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_05add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#150#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_999.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#2#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_999recharge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#148#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../py26_project/py26_api_test/testcases/test_invest.py" />
+    <entry file="file://$PROJECT_DIR$/common/handle_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#149#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_07invest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#148#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#150#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_invest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#150#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_main_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <folding>
+            <element signature="e#4#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/11requests.py" />
+    <entry file="file://$PROJECT_DIR$/testcases/test_loans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/01python操作mysql数据库.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01扩展学习的代码/04随机生成手机号码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#150#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_03recharge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding>
+            <element signature="e#148#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#149#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_01register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#149#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
